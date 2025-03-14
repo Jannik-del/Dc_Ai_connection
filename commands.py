@@ -1,7 +1,7 @@
 import nextcord
 from nextcord.ext import commands
 import config
-
+# needed this not requierd to have
 
 class CommandsCog(commands.Cog):
     def __init__(self, client):
